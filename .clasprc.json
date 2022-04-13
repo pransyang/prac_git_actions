@@ -1,0 +1,18 @@
+{
+    "token":
+    {
+        "access_token":"ya29.A0ARrdaM_ql-XFa3Vd3jSvkYzJ6LB8FtPiFAWUHuvHMq0fhuqEkEKxI7IzE10zTdScA6LIibwOqakh5HJ1r2UfpuEr1vg4p5agLzPlRDQGTUzeOD8ARO3_eW9W00nOB08wYitjcncpeebOoXY2vR5739ZBM5tP",
+        "refresh_token":"1//0e5lpA0Xa7CyiCgYIARAAGA4SNwF-L9IrqU9dXpYomMQfpHOvJO8fT2_lRuBu4_kD3IgVApZVVPrqWMiRi6A7IivLeyjSyTiojTI",
+        "scope":"https://www.googleapis.com/auth/drive.metadata.readonly https://www.googleapis.com/auth/script.projects https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/script.webapp.deploy openid https://www.googleapis.com/auth/drive.file https://www.googleapis.com/auth/service.management https://www.googleapis.com/auth/script.deployments https://www.googleapis.com/auth/logging.read https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloud-platform",
+        "token_type":"Bearer",
+        "id_token":"eyJhbGciOiJSUzI1NiIsImtpZCI6ImYxMzM4Y2EyNjgzNTg2M2Y2NzE0MDhmNDE3MzhhN2I0OWU3NDBmYzAiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIxMDcyOTQ0OTA1NDk5LXZtMnYyaTVkdm4wYTBkMm80Y2EzNmkxdmdlOGN2Ym4wLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiMTA3Mjk0NDkwNTQ5OS12bTJ2Mmk1ZHZuMGEwZDJvNGNhMzZpMXZnZThjdmJuMC5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjExNzc0MDc0MTQyNDAwNTM4NTAyNCIsImhkIjoia3VtdS5waCIsImVtYWlsIjoiY2FjaGVsbGUuamFsYWdhdEBrdW11LnBoIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJnZVJKT09vUzBWa3Buall3TVdneDBRIiwibmFtZSI6IkNhY2hlbGxlIEphbGFnYXQiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKeUFlMjI0eWctN0hHektjUXMxc2JMU3VxbHJ4d3ppRnktUVduZ2o9czk2LWMiLCJnaXZlbl9uYW1lIjoiQ2FjaGVsbGUiLCJmYW1pbHlfbmFtZSI6IkphbGFnYXQiLCJsb2NhbGUiOiJlbiIsImlhdCI6MTY0OTgyOTA0MywiZXhwIjoxNjQ5ODMyNjQzfQ.Cn_wei96yRVyFOU7FhFmzYjCTj4yX-pYc5c4260ZjgpZMhUxXN3oqntjI0IrCvvXRq9_VIt7ZyBmUMuEMkvsPt750AgGDMfmlglyq82jtDA71OAmS-DL4rs2ZNy61qWPd3DWBwNAWC6NiCLAzuG6HjqDYlF45bptEfM0j7GPs6TVqon0mGUHqBwEaMc_A-8PKn4VrdN3VBudsiud5qbX8hxhBsi0dW3LMhx1HtjG87038pX1yxGTPI7l2l7IP7o0GYRbpdsQMOcZWu3M-S6kKTBXjPfllULDFqijBdBvCbPXl2qFZY_iHLogFF75nJdVnqYCRUNy6J86Ar4l2UIwpg",
+        "expiry_date":1649832642701
+    },
+    "oauth2ClientSettings":
+    {
+        "clientId":"1072944905499-vm2v2i5dvn0a0d2o4ca36i1vge8cvbn0.apps.googleusercontent.com",
+        "clientSecret":"v6V3fKV_zWU7iw1DrpO1rknX",
+        "redirectUri":"http://localhost"
+    },
+    "isLocalCreds":false
+}

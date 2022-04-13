@@ -1,0 +1,8 @@
+{
+    "scriptId":"1xYYww0ZD28qal4YqNpLJ7mY1-xOMR0wbxcUEPCStiX_vIl0n5gchU4If",
+    "rootDir":"/.prac_git_actions/",
+    "projectId": "project-id-0000000000000000000",
+    "fileExtension": "js",
+    "filePushOrder": ["src/Code.js", "src/File1.js", "src/File1.js"],
+    "parentId": "XXXXXXXXXXXXXXXXXXXXXX"
+}
